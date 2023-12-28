@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin("http://localhost:5173")
+@CrossOrigin("http://bankingmanagment.netlify.app")
 @RestController
 @RequestMapping("/customer")
 public class TransactionsController {
