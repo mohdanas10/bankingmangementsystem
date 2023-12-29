@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin("https://calm-sable-974c5e.netlify.app")
+@CrossOrigin("https://funny-twilight-0568b6.netlify.app")
 @RestController
 @RequestMapping("/customer")
 public class TransactionsController {
